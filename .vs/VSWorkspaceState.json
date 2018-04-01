@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client"
+    "\\client",
+    "\\server",
+    "\\server\\node_modules",
+    "\\server\\node_modules\\nodemon"
   ],
-  "SelectedNode": "\\client\\test",
+  "SelectedNode": "\\server\\node_modules\\nodemon\\package.json",
   "PreviewInSolutionExplorer": false
 }
